@@ -5,3 +5,9 @@ This repository serves to organize the collaboration between 18F and CMS.  It wi
 ### Projects
 * [APIs](https://github.com/18F/CMS.gov-developer/blob/master/projects.md#apis)
 * [Open Source](https://github.com/18F/CMS.gov-developer/blob/master/projects.md#open-source)
+
+### Sprints 
+* [Sprint 1](https://github.com/18F/CMS.gov-developer/milestones/Sprint%201%20(8/3-8/14)) 
+* [Sprint 2](https://github.com/18F/CMS.gov-developer/milestones/Sprint%202%20(8/17-8/28)) 
+* [Sprint 3](https://github.com/18F/CMS.gov-developer/milestones/Sprint%203%20(8/31-9/11)) 
+* [Sprint 4](https://github.com/18F/CMS.gov-developer/milestones/Sprint%204%20(9/14-9/25))
