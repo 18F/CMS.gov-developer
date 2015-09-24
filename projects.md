@@ -48,14 +48,21 @@
   * [Live Example 2](https://sbst.gov/)
 
 
-### Security 
+### Secure DevOps 
 
+* Secure Messaging
+  * [Primary Codebase](https://github.com/jgrevich/fugacious)
+  * [Secondary Codebase](https://github.com/18F/docker-fugacious)
+  * [Hosted Instance](https://fugacious.18f.gov/) 
 
-
-
+* Large Scale Uploading 
+  * [Codebase](https://github.com/18F/voyage)
+  * [Hosted Instance](https://voyage.18f.gov/) 
 
 ### Contracting 
 
+* Review of Development Contract
+* [Contracting Cookbook]()
 
 
 
