@@ -12,7 +12,7 @@
 
 #### Policy Documents
 * [Security Development Process](http://18f.github.io/open-source-program/pages/model_security_development_process/)
-* 
+* [Open Source Policy](http://18f.github.io/open-source-program/pages/model_oss_policy/)
 
 #### Static Websites
 
