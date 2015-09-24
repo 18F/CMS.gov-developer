@@ -2,6 +2,12 @@
 
 ### APIs
 
+#### Policy Documents
+* [API Standards](https://github.com/18F/api-standards)
+
+### Resources 
+* [API Primer for COs]()
+
 #### API Stacks
 
 * [Open Data Maker](https://github.com/18F/open-data-maker)
@@ -21,6 +27,11 @@
 * [Security Development Process](http://18f.github.io/open-source-program/pages/model_security_development_process/)
 * [Open Source Policy](http://18f.github.io/open-source-program/pages/model_oss_policy/)
 
+
+### Resources 
+* [Open Source Primer for COs]()
+
+
 #### Validation Software
 * [Clouseau - An open source code validator](https://github.com/cfpb/clouseau)
 
@@ -35,6 +46,16 @@
   * [Primary Codebase](https://github.com/18f/federalist)
   * [Live Example 1](https://collegescorecard.ed.gov/)
   * [Live Example 2](https://sbst.gov/)
+
+
+### Security 
+
+
+
+
+
+### Contracting 
+
 
 
 
