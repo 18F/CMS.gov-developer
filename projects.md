@@ -10,7 +10,9 @@
   * [Live Example](https://autoapi.18f.gov/)
 
 #### API Analytics
-* API Umbrella]()
+* API Umbrella
+  * [Code Stack](https://github.com/NREL/api-umbrella)
+  * [Documentation](http://apiumbrella.io/docs/architecture/)
 
 
 ### Open Source 
