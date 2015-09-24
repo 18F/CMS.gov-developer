@@ -7,6 +7,8 @@
 * [Auto API](https://github.com/18F/autoapi)
   * [Live Example](https://autoapi.18f.gov/)
 
+~~~ 
+* []()
 
 ### Open Source 
 
@@ -20,7 +22,7 @@
   * [Primary Codebase](https://github.com/18F/pages)
   * [Secondary Codebase](https://github.com/18F/pages-server)
   * [Live Example 1](https://pages.18f.gov/)
-  * []()
+  * [Live Example 2](https://pages.18f.gov/guides/)
 * Federalist
   * [Primary Codebase](https://github.com/18f/federalist)
   * [Live Example 1](https://collegescorecard.ed.gov/)
