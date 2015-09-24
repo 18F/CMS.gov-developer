@@ -7,9 +7,6 @@
 * [Auto API](https://github.com/18F/autoapi)
   * [Live Example](https://autoapi.18f.gov/)
 
-~~~ 
-* []()
-
 ### Open Source 
 
 #### Policy Documents
