@@ -29,7 +29,7 @@
 
 
 ### Resources 
-* [Open Source Primer for COs]()
+* [Open Source Primer for COs](https://pages.18f.gov/open-source-program/pages/primer/)
 
 
 #### Validation Software
