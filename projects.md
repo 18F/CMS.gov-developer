@@ -2,10 +2,10 @@
 
 ### APIs
 
-#### Engagement
+##### Engagement
 * API Usability Test for the [Healhcare Finder API](https://finder.healthcare.gov/#services)
 
-#### Policy Documents
+##### Policy Documents
 * [API Standards](https://github.com/18F/api-standards)
 
 ### Resources 
@@ -32,7 +32,7 @@
 
 
 ### Resources 
-* [Open Source Primer for COs](https://pages.18f.gov/open-source-program/pages/primer/)  |  [Temp Link](https://github.com/18f/open-source-program/blob/18f-pages/pages/primer.md)
+* [Open Source Primer for COs](https://pages.18f.gov/open-source-program/pages/primer/)
 * [Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
 
 #### Validation Software
@@ -72,13 +72,14 @@
 * [Recorded Training](https://www.youtube.com/watch?v=bdlxkwqP2Kg)
 * Review of Website Development contract
 * [Contracting Cookbook](https://pages.18f.gov/contracting-cookbook/)
-* [Template Open Source Clause](https://pages.18f.gov/open-source-program/pages/contract_language/)  |  [Temp Link](https://github.com/18F/open-source-program/blob/18f-pages/pages/contract_language.md)
+* [Template Open Source Clause](https://pages.18f.gov/open-source-program/pages/contract_language/) 
 
 ------------------------
 
 ### [Outstanding Opportunities Outside of 18F IAA](https://github.com/18F/CMS.gov-developer/issues?utf8=%E2%9C%93&q=label%3A%22available+outside+of+IAA%22+)
 * [Present at DC API Meetup](https://github.com/18F/CMS.gov-developer/issues/62)
-
+* Installation of API Umbrella internally
+* Support for use of api.data.gov
 
 
 ### [Candidates for a FY16 IAA](https://github.com/18F/CMS.gov-developer/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22candidate+for+a+FY16+IAA%22+)
