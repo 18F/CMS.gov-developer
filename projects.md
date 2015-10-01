@@ -8,7 +8,6 @@
 * Review of the GEO API
 
 ##### Policy Documents
-* [API Standards](https://github.com/18F/api-standards)
 * [Model Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos#readme)
 
 ##### Resources 
@@ -68,6 +67,9 @@ Static Websites
 ##### Resources
 
 * [Recorded Training](https://www.youtube.com/watch?v=T1S52B1-NT4)
+* [Hardened Baseline Configuration for Nginx](https://github.com/fisma-ready/nginx)
+* [Development Environment Guide](https://pages.18f.gov/dev-environment/)
+* [DevOps Assessment Guide](https://pages.18f.gov/devops-assessment/)
 
 ##### Tools
 
