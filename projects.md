@@ -81,6 +81,12 @@ Static Websites
 ##### Engagement
 * Review of Website Development contract
 
+### Enterprise Information 
+
+##### Resources
+
+* Delivery of similar documentation from GSA
+
 
 ##### Resources
 
