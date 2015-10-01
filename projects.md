@@ -29,7 +29,7 @@
 
 
 ### Resources 
-* [Open Source Primer for COs](https://pages.18f.gov/open-source-program/pages/primer/)
+* [Open Source Primer for COs](https://pages.18f.gov/open-source-program/pages/primer/)  |  [Temp Link](https://github.com/18f/open-source-program/blob/18f-pages/pages/primer.md)
 
 
 #### Validation Software
@@ -61,9 +61,9 @@
 
 ### Contracting 
 
-* Review of Development Contract
-* [Contracting Cookbook]()
-
+* Review of Website Development contract
+* [Contracting Cookbook](https://pages.18f.gov/contracting-cookbook/)
+* [Template Open Source Clause](https://pages.18f.gov/open-source-program/pages/contract_language/)  |  [Temp Link](https://github.com/18F/open-source-program/blob/18f-pages/pages/contract_language.md)
 
 ------------------------
 
