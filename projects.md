@@ -2,6 +2,9 @@
 
 ### APIs
 
+#### Engagement
+* API Usability Test for the [Healhcare Finder API](https://finder.healthcare.gov/#services)
+
 #### Policy Documents
 * [API Standards](https://github.com/18F/api-standards)
 
@@ -30,7 +33,7 @@
 
 ### Resources 
 * [Open Source Primer for COs](https://pages.18f.gov/open-source-program/pages/primer/)  |  [Temp Link](https://github.com/18f/open-source-program/blob/18f-pages/pages/primer.md)
-
+* [Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
 
 #### Validation Software
 * [Clouseau - An open source code validator](https://github.com/cfpb/clouseau)
