@@ -1,4 +1,4 @@
-## Projects for this collaboration
+## Outline of Projects
 
 ### APIs
 
