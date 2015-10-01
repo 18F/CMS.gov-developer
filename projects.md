@@ -4,6 +4,7 @@
 
 ##### Engagement
 * API Usability Test for the [Healhcare Finder API](https://finder.healthcare.gov/#services)
+* Trial Run of api.data.gov Service for GEO API
 
 ##### Policy Documents
 * [API Standards](https://github.com/18F/api-standards)
