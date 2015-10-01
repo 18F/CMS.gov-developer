@@ -7,6 +7,7 @@
 
 ### Resources 
 * [API Primer for COs]()
+* [Developer Feedback Engine](https://github.com/18F/CMS-APIs)
 
 #### API Stacks
 
@@ -19,7 +20,6 @@
 * API Umbrella
   * [Code Stack](https://github.com/NREL/api-umbrella)
   * [Documentation](http://apiumbrella.io/docs/architecture/)
-
 
 ### Open Source 
 
@@ -50,6 +50,11 @@
 
 ### Secure DevOps 
 
+* [Recorded Training](https://www.youtube.com/watch?v=T1S52B1-NT4)
+
+
+#### Resources
+
 * Secure Messaging
   * [Primary Codebase](https://github.com/jgrevich/fugacious)
   * [Secondary Codebase](https://github.com/18F/docker-fugacious)
@@ -61,6 +66,7 @@
 
 ### Contracting 
 
+* [Recorded Training](https://www.youtube.com/watch?v=bdlxkwqP2Kg)
 * Review of Website Development contract
 * [Contracting Cookbook](https://pages.18f.gov/contracting-cookbook/)
 * [Template Open Source Clause](https://pages.18f.gov/open-source-program/pages/contract_language/)  |  [Temp Link](https://github.com/18F/open-source-program/blob/18f-pages/pages/contract_language.md)
