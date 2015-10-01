@@ -8,37 +8,41 @@
 ##### Policy Documents
 * [API Standards](https://github.com/18F/api-standards)
 
-### Resources 
+##### Resources 
 * [API Primer for COs](https://pages.18f.gov/API-All-the-X/pages/api_primer_for_procurement_officers/)
 * [Developer Feedback Engine](https://github.com/18F/CMS-APIs)
 
-#### API Stacks
+##### Tools
+
+  ##### API Stacks
 
 * [Open Data Maker](https://github.com/18F/open-data-maker)
   * [Live Example](https://collegescorecard.ed.gov/data/documentation/)
 * [Auto API](https://github.com/18F/autoapi)
   * [Live Example](https://autoapi.18f.gov/)
 
-#### API Analytics
+  ##### API Analytics
 * API Umbrella
   * [Code Stack](https://github.com/NREL/api-umbrella)
   * [Documentation](http://apiumbrella.io/docs/architecture/)
 
 ### Open Source 
 
-#### Policy Documents
+##### Policy Documents
 * [Security Development Process](http://18f.github.io/open-source-program/pages/model_security_development_process/)
 * [Open Source Policy](http://18f.github.io/open-source-program/pages/model_oss_policy/)
 
-
-### Resources 
+##### Resources 
 * [Open Source Primer for COs](https://pages.18f.gov/open-source-program/pages/primer/)
 * [Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
 
-#### Validation Software
+
+##### Tools
+
+  ##### Validation Software
 * [Clouseau - An open source code validator](https://github.com/cfpb/clouseau)
 
-#### Static Websites
+  ##### Static Websites
 
 * 18F Pages
   * [Primary Codebase](https://github.com/18F/pages)
@@ -53,10 +57,11 @@
 
 ### Secure DevOps 
 
+##### Resources
+
 * [Recorded Training](https://www.youtube.com/watch?v=T1S52B1-NT4)
 
-
-#### Resources
+##### Tools
 
 * Secure Messaging
   * [Primary Codebase](https://github.com/jgrevich/fugacious)
@@ -69,8 +74,13 @@
 
 ### Contracting 
 
-* [Recorded Training](https://www.youtube.com/watch?v=bdlxkwqP2Kg)
+##### Engagement
 * Review of Website Development contract
+
+
+##### Resources
+
+* [Recorded Training](https://www.youtube.com/watch?v=bdlxkwqP2Kg)
 * [Contracting Cookbook](https://pages.18f.gov/contracting-cookbook/)
 * [Template Open Source Clause](https://pages.18f.gov/open-source-program/pages/contract_language/) 
 
