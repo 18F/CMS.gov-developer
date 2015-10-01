@@ -83,6 +83,12 @@ Static Websites
 ##### Engagement
 * Review of Website Development contract
 
+##### Resources
+
+* [Recorded Training](https://www.youtube.com/watch?v=bdlxkwqP2Kg)
+* [Contracting Cookbook](https://pages.18f.gov/contracting-cookbook/)
+* [Template Open Source Clause](https://pages.18f.gov/open-source-program/pages/contract_language/) 
+
 ### Enterprise Information 
 
 ##### Resources
@@ -90,11 +96,6 @@ Static Websites
 * Delivery of similar documentation from GSA
 
 
-##### Resources
-
-* [Recorded Training](https://www.youtube.com/watch?v=bdlxkwqP2Kg)
-* [Contracting Cookbook](https://pages.18f.gov/contracting-cookbook/)
-* [Template Open Source Clause](https://pages.18f.gov/open-source-program/pages/contract_language/) 
 
 ------------------------
 
