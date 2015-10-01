@@ -9,10 +9,12 @@
 
 ##### Policy Documents
 * [API Standards](https://github.com/18F/api-standards)
+* [Model Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos#readme)
 
 ##### Resources 
 * [API Primer for COs](https://pages.18f.gov/API-All-the-X/pages/api_primer_for_procurement_officers/)
 * [Developer Feedback Engine](https://github.com/18F/CMS-APIs)
+* [API Usability Kit](https://pages.18f.gov/API-Usability-Testing/pages/kit/)
 
 ##### Tools
 
