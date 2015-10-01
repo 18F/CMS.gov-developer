@@ -64,6 +64,9 @@ Static Websites
 
 ### Secure DevOps 
 
+##### Engagement
+* HTTPS Review of Website Footprint
+
 ##### Resources
 
 * [Recorded Training](https://www.youtube.com/watch?v=T1S52B1-NT4)
