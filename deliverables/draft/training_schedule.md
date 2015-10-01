@@ -1,3 +1,0 @@
-## Trainings scheduled for CMS
-
-... 
