@@ -65,7 +65,8 @@ Static Websites
 ### Secure DevOps 
 
 ##### Engagement
-* HTTPS Review of Website Footprint
+* Subdomain Census of HHS
+* HTTPS Review HHS Web Presence
 
 ##### Resources
 
