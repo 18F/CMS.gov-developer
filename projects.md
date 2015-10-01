@@ -51,10 +51,6 @@ API Analytics
 
 ##### Tools
 
-Validation Software
-
-* [Clouseau - An open source code validator](https://github.com/cfpb/clouseau)
-
 Static Websites
 
 * 18F Pages
