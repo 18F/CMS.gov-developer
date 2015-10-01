@@ -14,14 +14,15 @@
 
 ##### Tools
 
-  ##### API Stacks
+API Stacks
 
 * [Open Data Maker](https://github.com/18F/open-data-maker)
   * [Live Example](https://collegescorecard.ed.gov/data/documentation/)
 * [Auto API](https://github.com/18F/autoapi)
   * [Live Example](https://autoapi.18f.gov/)
 
-  ##### API Analytics
+API Analytics
+
 * API Umbrella
   * [Code Stack](https://github.com/NREL/api-umbrella)
   * [Documentation](http://apiumbrella.io/docs/architecture/)
@@ -39,10 +40,11 @@
 
 ##### Tools
 
-  ##### Validation Software
+Validation Software
+
 * [Clouseau - An open source code validator](https://github.com/cfpb/clouseau)
 
-  ##### Static Websites
+Static Websites
 
 * 18F Pages
   * [Primary Codebase](https://github.com/18F/pages)
