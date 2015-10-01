@@ -53,12 +53,11 @@ API Analytics
 
 Static Websites
 
-* 18F Pages
-  * [Primary Codebase](https://github.com/18F/pages)
+* [18F Pages](https://github.com/18F/pages)
   * [Secondary Codebase](https://github.com/18F/pages-server)
   * [Live Example 1](https://pages.18f.gov/)
   * [Live Example 2](https://pages.18f.gov/guides/)
-* Federalist
+* [Federalist](federalist.18f.gov)
   * [Primary Codebase](https://github.com/18f/federalist)
   * [Live Example 1](https://collegescorecard.ed.gov/)
   * [Live Example 2](https://sbst.gov/)
@@ -72,13 +71,11 @@ Static Websites
 
 ##### Tools
 
-* Secure Messaging
-  * [Primary Codebase](https://github.com/jgrevich/fugacious)
+* [Secure Messaging](https://github.com/jgrevich/fugacious)
   * [Secondary Codebase](https://github.com/18F/docker-fugacious)
   * [Hosted Instance](https://fugacious.18f.gov/) 
 
-* Large Scale Uploading 
-  * [Codebase](https://github.com/18F/voyage)
+* [Large Scale File Uploading](https://github.com/18F/voyage)
   * [Hosted Instance](https://voyage.18f.gov/) 
 
 ### Contracting 
