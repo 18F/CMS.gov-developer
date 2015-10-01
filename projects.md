@@ -9,7 +9,7 @@
 * [API Standards](https://github.com/18F/api-standards)
 
 ### Resources 
-* [API Primer for COs]()
+* [API Primer for COs](https://pages.18f.gov/API-All-the-X/pages/api_primer_for_procurement_officers/)
 * [Developer Feedback Engine](https://github.com/18F/CMS-APIs)
 
 #### API Stacks
