@@ -7,3 +7,4 @@ This repository serves to organize the collaboration between 18F and CMS.  It wi
 * [Open Source](https://github.com/18F/CMS.gov-developer/blob/master/projects.md#open-source)
 * [Secure DevOps](https://github.com/18F/CMS.gov-developer/blob/master/projects.md#secure-devops)
 * [Contracting](https://github.com/18F/CMS.gov-developer/blob/master/projects.md#contracting)
+* [Enterprise Information](https://github.com/18F/CMS.gov-developer/blob/master/projects.md#enterprise-information)
