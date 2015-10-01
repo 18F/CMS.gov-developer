@@ -15,6 +15,7 @@
 * [API Primer for COs](https://pages.18f.gov/API-All-the-X/pages/api_primer_for_procurement_officers/)
 * [Developer Feedback Engine](https://github.com/18F/CMS-APIs)
 * [API Usability Kit](https://pages.18f.gov/API-Usability-Testing/pages/kit/)
+* [Ensuring Discoverability Guide](https://pages.18f.gov/API-All-the-X/pages/ensuring_discoverability-a_guide/)
 
 ##### Tools
 
@@ -36,10 +37,16 @@ API Analytics
 ##### Policy Documents
 * [Security Development Process](http://18f.github.io/open-source-program/pages/model_security_development_process/)
 * [Open Source Policy](http://18f.github.io/open-source-program/pages/model_oss_policy/)
+* [Federal Controls for Use of GitHub](https://github.com/fisma-ready/github)
 
 ##### Resources 
 * [Open Source Primer for COs](https://pages.18f.gov/open-source-program/pages/primer/)
 * [Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
+* [Open Source Checklist](http://if.io/open-source-program-template/pages/opensource_checklist)
+* [Model Security Development Process](https://pages.18f.gov/open-source-program/pages/model_security_development_process/)
+* [Model Team Practices](https://github.com/18F/open-source-policy/blob/master/practice.md)
+* [Guide - How to use more open source in your next federal IT aquisition](https://18f.gsa.gov/2014/11/26/how-to-use-more-open-source/)
+  * [Accompanying Webinar](https://www.youtube.com/watch?v=09oa4VaHaHI)
 
 
 ##### Tools
@@ -103,6 +110,7 @@ Static Websites
 * [Present at DC API Meetup](https://github.com/18F/CMS.gov-developer/issues/62)
 * Installation of API Umbrella internally
 * Support for use of api.data.gov
+* Participate in future API Usability Sessions
 
 
 ### [Candidates for a FY16 IAA](https://github.com/18F/CMS.gov-developer/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22candidate+for+a+FY16+IAA%22+)
