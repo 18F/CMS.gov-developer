@@ -106,11 +106,6 @@ Static Websites
 ------------------------
 
 ### [Outstanding Opportunities Outside of 18F IAA](https://github.com/18F/CMS.gov-developer/issues?utf8=%E2%9C%93&q=label%3A%22available+outside+of+IAA%22+)
-* [Present at DC API Meetup](https://github.com/18F/CMS.gov-developer/issues/62)
-* Installation of API Umbrella internally
-* Support for use of api.data.gov
-* Participate in future API Usability Sessions
-
 
 ### [Candidates for a FY16 IAA](https://github.com/18F/CMS.gov-developer/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22candidate+for+a+FY16+IAA%22+)
 
